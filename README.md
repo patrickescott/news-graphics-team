@@ -310,6 +310,11 @@ Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 * [Michael Kreil](https://github.com/MichaelKreil)
 * [Sebastian Vollnhals](https://github.com/yetzt)
 
+## Telegraph Data
+London, UK / [@Telegraph_Data](https://twitter.com/Telegraph_Data) / [Website](http://www.telegraph.co.uk/news/data/)
+* [Ashley Kirk](https://twitter.com/Ashley_J_Kirk)
+* [Patrick Scott](https://twitter.com/Patrick_E_Scott)
+
 ## The Times and Sunday Times
 London, UK / [@TimesDevelops](https://twitter.com/timesdevelops) / [Blog](https://medium.com/digital-times) / [Github](https://github.com/times)
 * [Matt Taylor](https://twitter.com/MattieTK)
